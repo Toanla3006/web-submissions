@@ -67,6 +67,9 @@
                   <li>
                       <a href="ass04_index.jsp">ASSIGNMENT 04</a>
                   </li>
+                  <li>
+                      <a href="ass05_index.jsp">ASSIGNMENT 05</a>
+                  </li>
     
               </ul>
           </div>
