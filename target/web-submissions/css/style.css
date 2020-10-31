@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-content {
+    display: flex;
+    flex-direction: row;
+    padding: 0.5em;
+}
+.form-content .form-group {
+    margin: 0.5em;
+}

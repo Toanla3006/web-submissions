@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="css/templatemo-style.css">
+    <link rel="icon" href="icon/3x.gif" type="image/gif">
 
     <link href="https://fonts.googleapis.com/css?family=Kanit:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
@@ -66,6 +67,9 @@
                   </li>
                   <li>
                       <a href="ass04_index.jsp">ASSIGNMENT 04</a>
+                  </li>
+                  <li>
+                      <a href="ass05_index.jsp">ASSIGNMENT 05</a>
                   </li>
     
               </ul>
